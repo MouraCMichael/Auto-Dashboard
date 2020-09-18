@@ -13,11 +13,16 @@ Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://
 <br/>
 <br/>
 
+<p align="center">
 
 <img align = "center" src = "https://user-images.githubusercontent.com/37875517/93637646-e8545000-f9c3-11ea-8ea6-f13463e080b5.jpeg>"
 
 
 <img align = "center" src = "https://user-images.githubusercontent.com/37875517/93640508-b2659a80-f9c8-11ea-826f-02784ce7845a.jpeg>"
+     
+<p>
+
+
 
  
  
