@@ -15,7 +15,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://
 
 <p align="center">
 
-![IMG_0412](https://user-images.githubusercontent.com/37875517/93637646-e8545000-f9c3-11ea-8ea6-f13463e080b5.jpeg)
+<img align="center" width="432" height="600" src="https://user-images.githubusercontent.com/37875517/93637646-e8545000-f9c3-11ea-8ea6-f13463e080b5.jpeg">
 
 <p>
  
