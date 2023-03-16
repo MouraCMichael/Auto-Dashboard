@@ -1,8 +1,8 @@
 # Auto-Dashboard
 The automobile dashboard embeded systems design project integrates the guage cluster of a Honda Accord and the TI MSP432.
 
-# Notes
-The custom enclosure was designed using SolidWorks2018.  It consists of the guage cluster's pivoting mount, the main electrical panel, the stand, and the control panel in the front. 
+# Description
+Embedded systems project integrating an MSP432 microprocessor with the gauge cluster of an automobile with 3 stepper motors and motor drivers, RTC, hall effect sensor, ultrasonic sensor, rotary encoder, OLED display, 7 segment LCD, 5 position switch, 4 momentary switches and 1 toggle switch.  System with peripherals was enclosed in a polycarbonate backed stainless steel enclosure. 
 
 Written in C-Programming in Eclipse IDE to impliment the Texas Instruments MSP432 32-bit micorcontroller.  Inputs recieved by 
 the MSP432 include:  
